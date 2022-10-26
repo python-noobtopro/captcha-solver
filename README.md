@@ -1,4 +1,4 @@
-# [Selenium based Captcha Solver that gives string result of Image Captcha using Google Lens]
+# [Selenium based Captcha Solver that gives string result of Image Captcha using Google Lens](https://github.com/python-noobtopro/captcha-solver/blob/main/captcha_solver.py)
 
 
 
