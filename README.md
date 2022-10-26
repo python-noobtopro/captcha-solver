@@ -12,4 +12,6 @@
 #### The work flow is as follows:
 ![image](https://user-images.githubusercontent.com/96291354/197998730-37c59377-e109-4ded-b2f2-5b86b35a9ecc.png)
 
+
+#### [How to find Xpath of Captcha -- CLICK HERE](https://www.scientecheasy.com/2020/07/find-xpath-chrome.html/)
 ##### Any help/suggestion is welcome https://www.linkedin.com/in/rupeshranjan/
