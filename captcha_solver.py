@@ -13,6 +13,7 @@ import os
 from PIL import Image
 
 " Please give url and xpath of captcha image as parameter to solve function of this class "
+# To learn how to find xpath see Readme.md
 
 
 class CaptchaCracker:
